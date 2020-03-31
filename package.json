@@ -1,0 +1,15 @@
+{
+  "name": "fundsexplorer-crawler",
+  "version": "1.0.0",
+  "description": "Aplicação simples para listar informações de Fundos Imobiliários no Funds Explorer",
+  "main": "main.js",
+  "dependencies": {
+    "crawler": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Couto",
+  "license": "GNU"
+}
