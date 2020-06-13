@@ -1,0 +1,10 @@
+[
+    {
+        "name": "HGLG11",
+        "portfolio": true
+    },
+    {
+        "name": "KNRI11",
+        "portfolio": false
+    }
+]
